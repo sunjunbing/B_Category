@@ -1,0 +1,5 @@
+target 'B_Category' do
+
+  pod 'CTMediator'
+
+end
